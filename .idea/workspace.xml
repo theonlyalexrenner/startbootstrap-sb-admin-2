@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58fa784c-f38e-4db8-95f2-ebc84dd6b45c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oops/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oops/.idea/deployment.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oops/.idea/misc.xml" beforeDir="false" />
@@ -166,19 +167,6 @@
       <change beforePath="$PROJECT_DIR$/oops/vendor/morrisjs/morris.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oops/vendor/raphael/raphael.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oops/vendor/raphael/raphael.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blank.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blank.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/flot.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/flot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/forms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/icons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/morris.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/morris.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/notifications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/panels-wells.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/panels-wells.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/tables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/typography.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,6 +178,7 @@
     <session id="-865407063">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -198,7 +187,7 @@
         <counts>
           <entry key="css" value="3" />
           <entry key="gitignore" value="5" />
-          <entry key="html" value="86" />
+          <entry key="html" value="97" />
           <entry key="js" value="75" />
           <entry key="json" value="22" />
           <entry key="md" value="24" />
@@ -208,7 +197,7 @@
         <counts>
           <entry key="CSS" value="3" />
           <entry key="Git file" value="5" />
-          <entry key="HTML" value="86" />
+          <entry key="HTML" value="97" />
           <entry key="JSON" value="22" />
           <entry key="JavaScript" value="75" />
           <entry key="Markdown" value="24" />
@@ -218,144 +207,35 @@
         <counts>
           <entry key="css" value="2" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="18" />
+          <entry key="html" value="19" />
           <entry key="js" value="5" />
           <entry key="json" value="3" />
           <entry key="less" value="4" />
           <entry key="md" value="2" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
           <entry key="Git file" value="2" />
-          <entry key="HTML" value="18" />
+          <entry key="HTML" value="19" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="5" />
           <entry key="Less" value="4" />
           <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/flot.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/forms.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/grid.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/icons.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/morris.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/notifications.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/panels-wells.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/tables.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/typography.html">
+        <entry file="file://$PROJECT_DIR$/ultra-admin/freelancing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-              <folding>
-                <element signature="e#317#324#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="3964">
+              <caret line="1107" lean-forward="true" selection-start-line="1107" selection-end-line="1107" />
             </state>
           </provider>
         </entry>
@@ -400,6 +280,7 @@
         <option value="$PROJECT_DIR$/pages/panels-wells.html" />
         <option value="$PROJECT_DIR$/pages/tables.html" />
         <option value="$PROJECT_DIR$/pages/typography.html" />
+        <option value="$PROJECT_DIR$/ultra-admin/freelancing.html" />
       </list>
     </option>
   </component>
@@ -451,6 +332,77 @@
               <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="morris-chart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="pace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="rickshaw-chart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="ultra-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -485,25 +437,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534758222260</updated>
-      <workItem from="1534758223684" duration="4175000" />
+      <workItem from="1534758223684" duration="11818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4175000" />
+    <option name="totallyTimeSpent" value="11818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973261" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49946523" visible="true" weight="0.32976446" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49946523" visible="true" weight="0.32976446" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5005348" side_tool="true" weight="0.32976446" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -746,6 +697,20 @@
           <folding>
             <element signature="e#317#324#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="234" column="69" selection-start-line="234" selection-start-column="69" selection-end-line="234" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ultra-admin/freelancing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3964">
+          <caret line="1107" lean-forward="true" selection-start-line="1107" selection-end-line="1107" />
         </state>
       </provider>
     </entry>
